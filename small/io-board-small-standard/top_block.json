@@ -1,0 +1,40 @@
+{
+    "block_instance_mappings": {},
+    "block_instances": {},
+    "bom_export_settings": {
+        "concrete_parts": {},
+        "csv_settings": {
+            "columns": [
+                "QTY",
+                "MPN",
+                "value",
+                "manufacturer",
+                "refdes"
+            ],
+            "order": "asc",
+            "sort_column": "refdes"
+        },
+        "orderable_MPNs": {},
+        "output_filename": ""
+    },
+    "buses": {},
+    "components": {},
+    "group_names": {},
+    "name": "Top",
+    "net_class_default": "a48123af-5897-4ccf-b2a6-126b8069075e",
+    "net_classes": {
+        "a48123af-5897-4ccf-b2a6-126b8069075e": {
+            "name": "default"
+        }
+    },
+    "nets": {},
+    "project_meta": {
+        "author": "yann",
+        "date": "2024-08-18",
+        "project_name": "io-board-small-standard",
+        "project_title": "io-board-small-standard",
+        "rev": "1"
+    },
+    "tag_names": {},
+    "uuid": "7dd99e06-2a2d-44db-b3e1-39a57ea92d62"
+}

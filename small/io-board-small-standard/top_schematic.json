@@ -1,0 +1,51 @@
+{
+    "annotation": {
+        "fill_gaps": true,
+        "ignore_unknown": false,
+        "keep": true,
+        "mode": "sheet_100",
+        "order": "right_down"
+    },
+    "block": "7dd99e06-2a2d-44db-b3e1-39a57ea92d62",
+    "group_tag_visible": false,
+    "name": "",
+    "pdf_export_settings": {
+        "min_line_width": 0,
+        "output_filename": ""
+    },
+    "rules": {
+        "connectivity": {
+            "enabled": true,
+            "include_unnamed": true,
+            "order": -1
+        }
+    },
+    "sheets": {
+        "74521acf-5dbe-4d1c-90fc-5decad792628": {
+            "arcs": {},
+            "block_symbols": {},
+            "bus_labels": {},
+            "bus_rippers": {},
+            "index": 1,
+            "junctions": {},
+            "lines": {},
+            "name": "First sheet",
+            "net_labels": {},
+            "net_lines": {},
+            "power_symbols": {},
+            "symbols": {},
+            "texts": {},
+            "title_block_values": {}
+        }
+    },
+    "title_block_values": {
+        "author": "yann",
+        "date": "2024-08-18",
+        "project_name": "io-board-small-standard",
+        "project_title": "io-board-small-standard",
+        "rev": "1"
+    },
+    "type": "schematic_block",
+    "uuid": "3bacddb4-f603-4845-98ac-d9c82512e1d0",
+    "version": 8
+}
