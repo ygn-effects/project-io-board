@@ -170,8 +170,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    31400000,
-                    28900000
+                    7565000,
+                    44070000
                 ]
             },
             "smashed": false,
@@ -250,8 +250,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    22500000,
-                    21900000
+                    26000000,
+                    30400000
                 ]
             },
             "smashed": false,
@@ -295,11 +295,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 0,
+                "angle": 32768,
                 "mirror": false,
                 "shift": [
-                    -7800000,
-                    26200000
+                    6350000,
+                    23450000
                 ]
             },
             "smashed": false,
@@ -311,11 +311,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 32768,
+                "angle": 0,
                 "mirror": false,
                 "shift": [
-                    26700000,
-                    33600000
+                    13614999,
+                    36670000
                 ]
             },
             "smashed": false,
@@ -359,11 +359,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 0,
+                "angle": 32768,
                 "mirror": false,
                 "shift": [
-                    -9300000,
-                    33700000
+                    10800000,
+                    22700000
                 ]
             },
             "smashed": false,
@@ -423,11 +423,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 0,
+                "angle": 32768,
                 "mirror": false,
                 "shift": [
-                    26800000,
-                    31500000
+                    13614999,
+                    38870000
                 ]
             },
             "smashed": false,
@@ -439,11 +439,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 0,
+                "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    31400000,
-                    31900000
+                    12765000,
+                    42570000
                 ]
             },
             "smashed": false,
@@ -459,7 +459,7 @@
                 "mirror": false,
                 "shift": [
                     17200000,
-                    31100000
+                    29400000
                 ]
             },
             "smashed": false,
@@ -490,8 +490,8 @@
                 "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    4600000,
-                    41400000
+                    2500000,
+                    56200000
                 ]
             },
             "smashed": false,
@@ -503,11 +503,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 0,
+                "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    26100000,
-                    28900000
+                    3595000,
+                    39670000
                 ]
             },
             "smashed": false,
@@ -539,7 +539,7 @@
                 "mirror": false,
                 "shift": [
                     10900000,
-                    31100000
+                    29400000
                 ]
             },
             "smashed": false,
@@ -570,8 +570,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    12200000,
-                    42400000
+                    11400000,
+                    56400000
                 ]
             },
             "smashed": false,
@@ -586,8 +586,8 @@
                 "angle": 49152,
                 "mirror": false,
                 "shift": [
-                    32000000,
-                    23300000
+                    8200000,
+                    38500000
                 ]
             },
             "smashed": false,
@@ -599,11 +599,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 0,
+                "angle": 32768,
                 "mirror": false,
                 "shift": [
-                    -7600000,
-                    24600000
+                    6350000,
+                    21350000
                 ]
             },
             "smashed": false,
@@ -618,8 +618,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    32130000,
-                    36005000
+                    22700000,
+                    54800000
                 ]
             },
             "smashed": false,
@@ -683,7 +683,7 @@
                 "mirror": false,
                 "shift": [
                     4600000,
-                    31100000
+                    29400000
                 ]
             },
             "smashed": false,
@@ -695,11 +695,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 0,
+                "angle": 16384,
                 "mirror": false,
                 "shift": [
-                    3149999,
-                    23000000
+                    14600000,
+                    22400000
                 ]
             },
             "smashed": false,
@@ -743,11 +743,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 0,
+                "angle": 32768,
                 "mirror": false,
                 "shift": [
-                    10300000,
-                    21900000
+                    26000000,
+                    22100000
                 ]
             },
             "smashed": false,
