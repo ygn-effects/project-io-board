@@ -574,6 +574,36 @@
             "tag": "da2f6db8-7949-421b-9965-eec9e34a4fd3",
             "value": ""
         },
+        "952e1fb5-7a79-4f8f-90c3-1e75bcf6a55d": {
+            "alt_pins": {},
+            "connections": {
+                "7e216459-ad85-4d9b-98b7-a46e9d9b5438/2c7b98b7-d657-4cf7-a33e-99d0f643d473": {
+                    "net": "5250e92b-1451-4fde-b6d4-cb9959f3c147"
+                },
+                "7e216459-ad85-4d9b-98b7-a46e9d9b5438/30f3e502-5732-4be1-a6c8-9e850a04deb0": {
+                    "net": "9016242a-663f-4c57-bacd-f305512a0846"
+                },
+                "7e216459-ad85-4d9b-98b7-a46e9d9b5438/33daec02-393c-49b1-8764-f58ebdb8bbbf": {
+                    "net": "e3d054cc-677e-4dac-8ee3-76f67b09fca2"
+                },
+                "7e216459-ad85-4d9b-98b7-a46e9d9b5438/8131c6bd-7bb6-4141-b43e-4a7ad56c5543": {
+                    "net": "5250e92b-1451-4fde-b6d4-cb9959f3c147"
+                },
+                "7e216459-ad85-4d9b-98b7-a46e9d9b5438/d0555739-abc7-4df1-a0c0-a1f0de57bb67": {
+                    "net": "5250e92b-1451-4fde-b6d4-cb9959f3c147"
+                },
+                "7e216459-ad85-4d9b-98b7-a46e9d9b5438/df50d8b5-6e5c-4cd1-91c8-17f2783b8c26": {
+                    "net": "5250e92b-1451-4fde-b6d4-cb9959f3c147"
+                }
+            },
+            "entity": "4969fd95-015a-41c7-b6e7-941856f99f5e",
+            "group": "00000000-0000-0000-0000-000000000000",
+            "part": "da419ed8-766b-4404-b46f-5ee8c0e95eca",
+            "pin_names": {},
+            "refdes": "ICSP",
+            "tag": "e51b6596-fc33-48d8-a4d5-a299b9dec2aa",
+            "value": ""
+        },
         "98d7aa06-f307-4d04-8920-9c374f27700f": {
             "alt_pins": {},
             "connections": {
@@ -1170,6 +1200,7 @@
         "d08d4755-4e4e-47bb-af72-5ea328e2311f": "1",
         "da2f6db8-7949-421b-9965-eec9e34a4fd3": "19",
         "dedde98c-c46c-41a0-9e8c-2ee5ed1b2f0c": "5",
+        "e51b6596-fc33-48d8-a4d5-a299b9dec2aa": "26",
         "ece9f5f1-5e32-4a08-aaaa-2a183604709c": "25",
         "fb7c5431-c1e5-4820-99ac-075e1d6c7869": "16",
         "fc63fea1-51c2-4791-bf94-45b48342db47": "26"
