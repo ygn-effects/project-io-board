@@ -19,6 +19,34 @@
         }
     },
     "connection_lines": {},
+    "decals": {
+        "33ab2587-508a-472c-87ba-38b1b99b0d45": {
+            "decal": "38ca3c1f-10dd-4966-baf1-235761787ce6",
+            "flip": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    29300000,
+                    5300000
+                ]
+            },
+            "scale": 1.0
+        },
+        "ade7d16c-773d-4b99-9cb8-da9870091dec": {
+            "decal": "2cef7b60-e221-46bc-9c70-099b6f061662",
+            "flip": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    36500000,
+                    4500000
+                ]
+            },
+            "scale": 1.0
+        }
+    },
     "dimensions": {},
     "fab_output_settings": {
         "drill_mode": "merged",
@@ -5114,10 +5142,10 @@
                 "mirror": false,
                 "shift": [
                     15730000,
-                    44693000
+                    45393000
                 ]
             },
-            "size": 1000000,
+            "size": 1300000,
             "text": "$RD",
             "width": 150000
         },
@@ -5181,8 +5209,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    28400000,
-                    8305844
+                    30750000,
+                    10102922
                 ]
             },
             "size": 1000000,
@@ -5223,6 +5251,23 @@
             "text": "$RD",
             "width": 150000
         },
+        "60b4bf62-341d-4f45-933c-b8b1c5ed966b": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    28000000,
+                    2500000
+                ]
+            },
+            "size": 1000000,
+            "text": "v1.0",
+            "width": 150000
+        },
         "6114312d-9ed1-4ffe-8785-2ed19d0e026a": {
             "font": "simplex",
             "from_smash": true,
@@ -5250,10 +5295,10 @@
                 "mirror": false,
                 "shift": [
                     6650000,
-                    43750000
+                    44050000
                 ]
             },
-            "size": 1000000,
+            "size": 1300000,
             "text": "$RD",
             "width": 150000
         },
