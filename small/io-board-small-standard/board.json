@@ -3544,7 +3544,7 @@
                     "arc_reverse": false,
                     "position": [
                         50600000,
-                        22400000
+                        22500000
                     ],
                     "type": "line"
                 },
@@ -3555,8 +3555,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        55450000,
-                        22400000
+                        55350000,
+                        22500000
                     ],
                     "type": "line"
                 },
@@ -3567,8 +3567,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        55450000,
-                        27300000
+                        55350000,
+                        27400000
                     ],
                     "type": "line"
                 },
@@ -3580,7 +3580,7 @@
                     "arc_reverse": false,
                     "position": [
                         50600000,
-                        27300000
+                        27400000
                     ],
                     "type": "line"
                 },
@@ -3849,7 +3849,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        25280000,
+                        25180000,
                         34300000
                     ],
                     "type": "line"
@@ -3861,8 +3861,8 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        25280000,
-                        29150000
+                        25180000,
+                        29250000
                     ],
                     "type": "line"
                 },
@@ -3874,7 +3874,7 @@
                     "arc_reverse": false,
                     "position": [
                         21100000,
-                        29150000
+                        29250000
                     ],
                     "type": "line"
                 },
@@ -5007,7 +5007,7 @@
         }
     },
     "step_export_settings": {
-        "filename": "",
+        "filename": "/home/yann/Desktop/pcb2.step",
         "include_3d_models": true,
         "min_diameter": 4294967297,
         "prefix": ""
