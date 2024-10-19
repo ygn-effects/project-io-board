@@ -55,7 +55,7 @@
         "layers": {
             "-1": {
                 "enabled": true,
-                "filename": "",
+                "filename": ".g2l",
                 "layer": -1
             },
             "-100": {
@@ -74,13 +74,13 @@
                 "layer": -120
             },
             "-130": {
-                "enabled": true,
+                "enabled": false,
                 "filename": ".gbp",
                 "layer": -130
             },
             "-2": {
                 "enabled": true,
-                "filename": "",
+                "filename": ".g3l",
                 "layer": -2
             },
             "0": {
@@ -109,9 +109,9 @@
                 "layer": 30
             }
         },
-        "output_directory": "",
+        "output_directory": "/home/yann/_ygn/project-io-board/small/gerber",
         "prefix": "io-board-small-standard",
-        "zip_output": false
+        "zip_output": true
     },
     "grid_settings": {
         "current": {

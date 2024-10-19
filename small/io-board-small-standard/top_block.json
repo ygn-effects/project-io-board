@@ -5,17 +5,19 @@
         "concrete_parts": {},
         "csv_settings": {
             "columns": [
-                "QTY",
                 "MPN",
+                "refdes",
                 "value",
                 "manufacturer",
-                "refdes"
+                "description",
+                "package",
+                "QTY"
             ],
             "order": "asc",
             "sort_column": "refdes"
         },
         "orderable_MPNs": {},
-        "output_filename": ""
+        "output_filename": "/home/yann/_ygn/project-io-board/small/bom/io-board-small-standard.csv"
     },
     "buses": {},
     "components": {
