@@ -1,0 +1,41 @@
+{
+    "MPN": [
+        false,
+        "SMD-SB"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "SMD SOLDER BRIDGE"
+    ],
+    "entity": "7970a85d-0d70-401e-92ef-d5208fb8add5",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "f442d923-77b9-497f-a7ec-0e179f2d415f",
+    "pad_map": {
+        "4ece231f-7604-4e5d-8032-7b6d0f995276": {
+            "gate": "8500cd4a-ddbd-4a9e-bc0b-4ff263930842",
+            "pin": "11b7feba-0340-4789-a96f-e4f75623c6bb"
+        },
+        "bb2db240-d994-4d01-a7e9-e0777a781a77": {
+            "gate": "8500cd4a-ddbd-4a9e-bc0b-4ff263930842",
+            "pin": "c1bbb237-b890-42d8-b2cb-fdb4a41646d7"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "edb4dbd0-0052-4b72-a4a8-d8ff44d72b26",
+    "value": [
+        false,
+        ""
+    ]
+}

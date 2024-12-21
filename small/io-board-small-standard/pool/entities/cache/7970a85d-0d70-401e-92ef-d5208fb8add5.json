@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "8500cd4a-ddbd-4a9e-bc0b-4ff263930842": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "08defe24-3baa-47f5-b70f-fe8312d27330"
+        }
+    },
+    "manufacturer": "",
+    "name": "Solder bridge",
+    "prefix": "SB",
+    "tags": [
+        "pad"
+    ],
+    "type": "entity",
+    "uuid": "7970a85d-0d70-401e-92ef-d5208fb8add5"
+}

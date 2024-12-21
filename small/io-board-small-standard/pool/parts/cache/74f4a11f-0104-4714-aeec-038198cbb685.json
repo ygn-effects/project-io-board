@@ -1,0 +1,53 @@
+{
+    "MPN": [
+        false,
+        "418117270901"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "SWITC H DIP 1P"
+    ],
+    "entity": "69396363-2163-4d44-9409-5b75bfd74561",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Wurth Elektronik"
+    ],
+    "model": "b7c3e099-5c51-4ea3-bbf4-96f89ce864be",
+    "package": "9d060f0d-22c4-4cf8-b5db-2ad070d7b883",
+    "pad_map": {
+        "5957d925-af57-4ee4-aa0c-568726fcc185": {
+            "gate": "1808508f-c0fd-4725-a39f-680a7df94b62",
+            "pin": "c5b968b9-680d-4e74-9d35-c2048075ed18"
+        },
+        "f5c5065a-2802-436b-80af-038eec5e04d4": {
+            "gate": "1808508f-c0fd-4725-a39f-680a7df94b62",
+            "pin": "538308f7-7b68-49b3-8650-992660e58f5d"
+        }
+    },
+    "parametric": {
+        "contact_form": "SPST",
+        "contact_material": "Copper Alloy",
+        "contact_type": "ON-OFF",
+        "current_rating": "0.025",
+        "mechanical_life": "2000",
+        "mounting_angle": "Straight",
+        "mounting_type": "Through Hole",
+        "price": "0.7",
+        "switch_type": "DIP",
+        "table": "switches",
+        "voltage_rating": "24"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "74f4a11f-0104-4714-aeec-038198cbb685",
+    "value": [
+        false,
+        ""
+    ]
+}
