@@ -1,0 +1,22 @@
+{
+    "blocks": [
+        {
+            "block_filename": "top_block.json",
+            "is_top": true,
+            "schematic_filename": "top_schematic.json"
+        }
+    ],
+    "blocks_filename": "blocks.json",
+    "board_filename": "board.json",
+    "name": "",
+    "pictures_filename": "pictures",
+    "planes_filename": "planes.json",
+    "pool_cache_directory": "cache",
+    "pool_directory": "pool",
+    "pool_uuid": "21ba3cf3-08c6-47b2-8283-d4455608362c",
+    "title": "",
+    "type": "project",
+    "uuid": "331f6643-7d8a-4792-902f-b520c2d59370",
+    "version": 3,
+    "vias_directory": ""
+}

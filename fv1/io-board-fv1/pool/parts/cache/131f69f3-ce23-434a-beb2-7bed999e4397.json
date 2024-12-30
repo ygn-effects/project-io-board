@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "1N4148WS"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "DIODE SMALL SIGNAL 75V 150MA SOD"
+    ],
+    "entity": "08add184-d25b-48fc-ae48-1f241ab20a3c",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ON Semiconductor"
+    ],
+    "model": "29d125cf-f2da-439e-a919-d50a54f86150",
+    "package": "9aa34044-61cd-4778-b107-90f348d28d31",
+    "pad_map": {
+        "463467e3-68da-4996-aa5b-1eb3abd340bb": {
+            "gate": "23cb4ab2-082f-47f3-9247-6b1aa08bfa04",
+            "pin": "f584d8b9-86c0-41d5-bda9-72b0c0d84fb6"
+        },
+        "c5fddfb2-4c24-46e2-b331-f2d154955598": {
+            "gate": "23cb4ab2-082f-47f3-9247-6b1aa08bfa04",
+            "pin": "c843be6b-4356-46e1-abba-2966a4332a27"
+        }
+    },
+    "parametric": {
+        "capacitance": "4e-12",
+        "i_f": "0.15",
+        "package": "SOD-323F-2",
+        "price": "0.052",
+        "table": "diodes_switching",
+        "trr": "4e-09",
+        "v_f": "1",
+        "v_r": "75"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "131f69f3-ce23-434a-beb2-7bed999e4397",
+    "value": [
+        false,
+        "1N4148"
+    ]
+}
