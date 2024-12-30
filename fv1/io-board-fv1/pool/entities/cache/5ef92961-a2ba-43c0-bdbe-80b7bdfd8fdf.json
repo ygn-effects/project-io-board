@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "e2e29c3c-89b8-4082-8d95-e275ec3243b1": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "dbddf8d9-fcb9-46a7-851b-ea12a700b9b2"
+        }
+    },
+    "manufacturer": "",
+    "name": "Diode array - series",
+    "prefix": "D",
+    "tags": [
+        "array",
+        "diode"
+    ],
+    "type": "entity",
+    "uuid": "5ef92961-a2ba-43c0-bdbe-80b7bdfd8fdf"
+}

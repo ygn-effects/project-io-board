@@ -1,0 +1,54 @@
+{
+    "MPN": [
+        false,
+        "PJ-320F"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "JACK STEREO 3.5MM"
+    ],
+    "entity": "7e66c2b7-d3f3-4a2c-a93e-0f79b31af23d",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Hooya"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "8eca1e28-eb9c-47c6-aa83-badf61d73b41",
+    "pad_map": {
+        "3b2393bb-6782-40c4-9865-9ae0f26b74b5": {
+            "gate": "6ba9c1a1-113c-4f84-b40a-a304b463a75e",
+            "pin": "a74bb864-6291-418e-a0ca-d0f10c4024b7"
+        },
+        "822e6580-0cc2-4f77-8546-15cc715873d5": {
+            "gate": "6ba9c1a1-113c-4f84-b40a-a304b463a75e",
+            "pin": "e10dd3fa-2fda-434a-b5bc-8fdd61d7586f"
+        },
+        "ee244193-fb17-47bb-922c-87437d1db262": {
+            "gate": "6ba9c1a1-113c-4f84-b40a-a304b463a75e",
+            "pin": "ce854e78-1f1c-434a-bd01-dbfe3a9eab5d"
+        }
+    },
+    "parametric": {
+        "contact_material": "Nickel",
+        "current_rating": "0",
+        "mounting_angle": "Right Angle",
+        "mounting_style": "PCB",
+        "positions": "Stereo",
+        "price": "0.0861",
+        "table": "connectors_jacks",
+        "voltage_rating": "0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "352ff2cf-8521-4be9-b261-60ca16683806",
+    "value": [
+        false,
+        ""
+    ]
+}

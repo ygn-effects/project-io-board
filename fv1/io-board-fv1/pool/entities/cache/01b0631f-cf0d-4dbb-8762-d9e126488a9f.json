@@ -1,0 +1,24 @@
+{
+    "gates": {
+        "3c415636-dd05-4666-985b-a71c7cd0d430": {
+            "name": "Power",
+            "suffix": "P",
+            "swap_group": 0,
+            "unit": "d74b6471-1ef3-4dc0-b9ad-37ec94994e92"
+        },
+        "7a8f347e-02c9-4b4c-813a-3c86a1ad7c68": {
+            "name": "A",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "7a7458a0-8ff2-4d20-ba25-0c5628be5a4d"
+        }
+    },
+    "manufacturer": "",
+    "name": "Schmitt trigger buffer",
+    "prefix": "IC",
+    "tags": [
+        "logic"
+    ],
+    "type": "entity",
+    "uuid": "01b0631f-cf0d-4dbb-8762-d9e126488a9f"
+}

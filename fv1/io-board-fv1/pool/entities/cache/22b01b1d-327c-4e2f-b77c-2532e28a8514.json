@@ -1,0 +1,24 @@
+{
+    "gates": {
+        "bb1b2ad7-fd7c-4e45-aef2-6186d77ae73c": {
+            "name": "A",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "201a5e67-cb9b-46fc-92d4-ab2c44ffc66e"
+        },
+        "bfb43e9c-f96d-41da-a97c-45ca6c4e7f3a": {
+            "name": "P",
+            "suffix": "P",
+            "swap_group": 0,
+            "unit": "d74b6471-1ef3-4dc0-b9ad-37ec94994e92"
+        }
+    },
+    "manufacturer": "",
+    "name": "Optocoupler CMOS",
+    "prefix": "OK",
+    "tags": [
+        "opto"
+    ],
+    "type": "entity",
+    "uuid": "22b01b1d-327c-4e2f-b77c-2532e28a8514"
+}

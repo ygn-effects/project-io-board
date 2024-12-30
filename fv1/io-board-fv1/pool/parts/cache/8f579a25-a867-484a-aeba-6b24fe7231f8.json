@@ -1,0 +1,55 @@
+{
+    "MPN": [
+        false,
+        "BAT54S-7-F"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "SCHOTTKY BARRIER DIODE 200MA 30V"
+    ],
+    "entity": "5ef92961-a2ba-43c0-bdbe-80b7bdfd8fdf",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Incorporated"
+    ],
+    "model": "001b62c2-ca1d-4d02-b95c-90ebb2b83343",
+    "package": "c60bd8ef-44c5-4875-b03c-b910f9ef79b9",
+    "pad_map": {
+        "7a79a4ab-fdb6-4af7-8287-712559f81605": {
+            "gate": "e2e29c3c-89b8-4082-8d95-e275ec3243b1",
+            "pin": "3b6f11b9-b26d-4847-bcd5-65a137aa4eb4"
+        },
+        "8a5105dd-bc81-4f58-abab-3cae4471357b": {
+            "gate": "e2e29c3c-89b8-4082-8d95-e275ec3243b1",
+            "pin": "c134fe9d-f7dd-4f3c-9922-80011123fe97"
+        },
+        "b65fdf3c-ecab-412b-9210-bfdae541644b": {
+            "gate": "e2e29c3c-89b8-4082-8d95-e275ec3243b1",
+            "pin": "3b3ae5f0-4f54-4b6b-8101-38e3f76eaabf"
+        }
+    },
+    "parametric": {
+        "capacitance": "1e-11",
+        "i_f": "0.2",
+        "p_max": "0.2",
+        "package": "SOT-23",
+        "price": "0.043",
+        "table": "diodes_schottky",
+        "trr": "5e-09",
+        "v_f": "0.8",
+        "v_r": "30"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "8f579a25-a867-484a-aeba-6b24fe7231f8",
+    "value": [
+        false,
+        ""
+    ]
+}

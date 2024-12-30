@@ -1,0 +1,65 @@
+{
+    "MPN": [
+        false,
+        "TLP2361(V4-TPR,E"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "HIGH SPEED PHTOCOUPLER CMOS OUTPUT"
+    ],
+    "entity": "22b01b1d-327c-4e2f-b77c-2532e28a8514",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Toshiba"
+    ],
+    "model": "e849c85a-fbaf-4cfb-869b-246e656da05b",
+    "package": "7026814f-fb23-4b49-8a14-4d7b101c3e79",
+    "pad_map": {
+        "26e8435e-d232-49bc-b4eb-3601c97d84eb": {
+            "gate": "bb1b2ad7-fd7c-4e45-aef2-6186d77ae73c",
+            "pin": "132687cd-2403-4417-b9de-180fdee48dd0"
+        },
+        "64b0acc7-fbd8-4c5d-bc54-b2b16cc4757d": {
+            "gate": "bfb43e9c-f96d-41da-a97c-45ca6c4e7f3a",
+            "pin": "b0e11638-94ee-4ff0-98ac-b2a4bee8e2ad"
+        },
+        "884aeae4-1d50-41cb-a025-e07da4674840": {
+            "gate": "bfb43e9c-f96d-41da-a97c-45ca6c4e7f3a",
+            "pin": "75d1face-4dfe-4e9e-ae1c-2a084c3b81df"
+        },
+        "9e9f5f0c-07b0-47d3-aa11-bd4c8d69ddbd": {
+            "gate": "bb1b2ad7-fd7c-4e45-aef2-6186d77ae73c",
+            "pin": "a3f8d6a1-4406-4bf5-8b0f-2ca36633c78d"
+        },
+        "b7bdf7dc-0029-4c1b-930e-2fbb54427a4d": {
+            "gate": "bb1b2ad7-fd7c-4e45-aef2-6186d77ae73c",
+            "pin": "04d98190-6fdf-4dba-924d-403255a86306"
+        }
+    },
+    "parametric": {
+        "ctr": "",
+        "i_f": "0.01",
+        "package": "SOP-5",
+        "price": "0.431",
+        "t_f": "0.003",
+        "t_r": "0.003",
+        "table": "optocouplers",
+        "type": "Photocoupler",
+        "v_f": "1.5",
+        "v_iso": "10000",
+        "v_r": "5"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "755db6a1-f87c-491e-9027-149a9d893064",
+    "value": [
+        false,
+        ""
+    ]
+}

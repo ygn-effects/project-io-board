@@ -1,0 +1,24 @@
+{
+    "gates": {
+        "18499f13-cd2d-4f85-af9e-e82c994fd6ec": {
+            "name": "A",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "d3f7fded-883d-45ab-bd9f-f6bf2b25f144"
+        },
+        "c10291ed-b0d3-43c9-b96e-e22f29c994d4": {
+            "name": "Power",
+            "suffix": "P",
+            "swap_group": 0,
+            "unit": "d74b6471-1ef3-4dc0-b9ad-37ec94994e92"
+        }
+    },
+    "manufacturer": "",
+    "name": "Opamp single",
+    "prefix": "IC",
+    "tags": [
+        "opamp"
+    ],
+    "type": "entity",
+    "uuid": "ac938426-aea4-43d8-a453-389eda056c75"
+}

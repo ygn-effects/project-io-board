@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "6ba9c1a1-113c-4f84-b40a-a304b463a75e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "2026831c-fbcc-46d0-a4a6-1f58791bfe6e"
+        }
+    },
+    "manufacturer": "",
+    "name": "Jack stereo",
+    "prefix": "J",
+    "tags": [
+        "connector",
+        "jack"
+    ],
+    "type": "entity",
+    "uuid": "7e66c2b7-d3f3-4a2c-a93e-0f79b31af23d"
+}

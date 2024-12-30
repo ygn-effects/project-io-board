@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "Diode array - series",
+    "pins": {
+        "3b3ae5f0-4f54-4b6b-8101-38e3f76eaabf": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A1",
+            "swap_group": 0
+        },
+        "3b6f11b9-b26d-4847-bcd5-65a137aa4eb4": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C2",
+            "swap_group": 0
+        },
+        "c134fe9d-f7dd-4f3c-9922-80011123fe97": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "C1/A2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "dbddf8d9-fcb9-46a7-851b-ea12a700b9b2"
+}

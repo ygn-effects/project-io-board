@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Schmitt trigger buffer",
+    "pins": {
+        "0e561986-a121-4464-b451-4bef2b3fe82f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "a9db86ba-5ccc-4922-bb9d-81179ce9f5bb": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Y",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "7a7458a0-8ff2-4d20-ba25-0c5628be5a4d"
+}

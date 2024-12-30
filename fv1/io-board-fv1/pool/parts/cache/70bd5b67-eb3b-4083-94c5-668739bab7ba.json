@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "SN74LVC1G17DBVR"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "SINGLE SCHMITT TRIGGER"
+    ],
+    "entity": "01b0631f-cf0d-4dbb-8762-d9e126488a9f",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instrument"
+    ],
+    "model": "0424f9a5-2ca7-41d7-911a-359bf0f9a172",
+    "package": "742b0944-ec41-452f-a7d6-7b4c0bef8ca8",
+    "pad_map": {
+        "017f3f6e-af06-4d5f-a314-644011261ffe": {
+            "gate": "7a8f347e-02c9-4b4c-813a-3c86a1ad7c68",
+            "pin": "a9db86ba-5ccc-4922-bb9d-81179ce9f5bb"
+        },
+        "02f8fb19-a1d6-4055-a4e1-9ddff38837d8": {
+            "gate": "7a8f347e-02c9-4b4c-813a-3c86a1ad7c68",
+            "pin": "0e561986-a121-4464-b451-4bef2b3fe82f"
+        },
+        "ccea2f90-07aa-44c7-942e-61a4bbcc8de0": {
+            "gate": "3c415636-dd05-4666-985b-a71c7cd0d430",
+            "pin": "b0e11638-94ee-4ff0-98ac-b2a4bee8e2ad"
+        },
+        "d002d1de-8557-46cb-9898-c43f775c95d7": {
+            "gate": "3c415636-dd05-4666-985b-a71c7cd0d430",
+            "pin": "75d1face-4dfe-4e9e-ae1c-2a084c3b81df"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "70bd5b67-eb3b-4083-94c5-668739bab7ba",
+    "value": [
+        false,
+        ""
+    ]
+}

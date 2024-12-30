@@ -1,0 +1,26 @@
+{
+    "manufacturer": "",
+    "name": "Optocoupler CMOS",
+    "pins": {
+        "04d98190-6fdf-4dba-924d-403255a86306": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "Vo",
+            "swap_group": 0
+        },
+        "132687cd-2403-4417-b9de-180fdee48dd0": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "a3f8d6a1-4406-4bf5-8b0f-2ca36633c78d": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "K",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "201a5e67-cb9b-46fc-92d4-ab2c44ffc66e"
+}
