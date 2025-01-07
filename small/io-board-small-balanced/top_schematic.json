@@ -4681,8 +4681,8 @@
     "title_block_values": {
         "author": "yann",
         "date": "2024-08-18",
-        "project_name": "io-board-small-standard",
-        "project_title": "io-board-small-standard",
+        "project_name": "io-board-small-balanced",
+        "project_title": "io-board-small-balanced",
         "rev": "1"
     },
     "type": "schematic_block",
