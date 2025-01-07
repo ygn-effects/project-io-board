@@ -1,0 +1,57 @@
+{
+    "MPN": [
+        false,
+        "ICSP-6P"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "ICSP CONNECTOR 6 PINS"
+    ],
+    "entity": "4969fd95-015a-41c7-b6e7-941856f99f5e",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "9a4159b2-b8ec-4ff8-9ce1-312bccb75be2",
+    "pad_map": {
+        "4e7975d1-bc49-43c1-9992-ed01bea2aaa6": {
+            "gate": "7e216459-ad85-4d9b-98b7-a46e9d9b5438",
+            "pin": "8131c6bd-7bb6-4141-b43e-4a7ad56c5543"
+        },
+        "96474b20-b80a-4a57-9a34-65532654e829": {
+            "gate": "7e216459-ad85-4d9b-98b7-a46e9d9b5438",
+            "pin": "d0555739-abc7-4df1-a0c0-a1f0de57bb67"
+        },
+        "b47c15ae-102d-47a0-9200-177ca04555dc": {
+            "gate": "7e216459-ad85-4d9b-98b7-a46e9d9b5438",
+            "pin": "30f3e502-5732-4be1-a6c8-9e850a04deb0"
+        },
+        "d444aa47-6958-482e-8f39-b259f168725f": {
+            "gate": "7e216459-ad85-4d9b-98b7-a46e9d9b5438",
+            "pin": "2c7b98b7-d657-4cf7-a33e-99d0f643d473"
+        },
+        "d4d982a1-1b18-4be1-a040-ddcbf0e1e11e": {
+            "gate": "7e216459-ad85-4d9b-98b7-a46e9d9b5438",
+            "pin": "df50d8b5-6e5c-4cd1-91c8-17f2783b8c26"
+        },
+        "e8f719d0-ae4a-4dde-a89e-43832748a662": {
+            "gate": "7e216459-ad85-4d9b-98b7-a46e9d9b5438",
+            "pin": "33daec02-393c-49b1-8764-f58ebdb8bbbf"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "da419ed8-766b-4404-b46f-5ee8c0e95eca",
+    "value": [
+        false,
+        ""
+    ]
+}

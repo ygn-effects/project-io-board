@@ -1,0 +1,51 @@
+{
+    "MPN": [
+        false,
+        "CES520"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "SCHOTTKY DIODE 30V 1A"
+    ],
+    "entity": "08add184-d25b-48fc-ae48-1f241ab20a3c",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Toshiba"
+    ],
+    "model": "76f7d370-c1fd-44e4-8b84-9d678c89ae06",
+    "package": "f3e55e4c-7e56-498c-89a3-bd64f18f17c1",
+    "pad_map": {
+        "31cd3b80-1d09-40e1-b3b2-07fed3ef0b67": {
+            "gate": "23cb4ab2-082f-47f3-9247-6b1aa08bfa04",
+            "pin": "f584d8b9-86c0-41d5-bda9-72b0c0d84fb6"
+        },
+        "4cf48cb6-d7c1-4786-b641-ee3d3b8ce26a": {
+            "gate": "23cb4ab2-082f-47f3-9247-6b1aa08bfa04",
+            "pin": "c843be6b-4356-46e1-abba-2966a4332a27"
+        }
+    },
+    "parametric": {
+        "capacitance": "1.7e-11",
+        "i_f": "0.3",
+        "p_max": "0.15",
+        "package": "SOD-523-2",
+        "price": "0.047",
+        "table": "diodes_schottky",
+        "trr": "",
+        "v_f": "0.6",
+        "v_r": "30"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "8b0a34f5-754e-4a18-b5fb-0775536b2707",
+    "value": [
+        false,
+        ""
+    ]
+}

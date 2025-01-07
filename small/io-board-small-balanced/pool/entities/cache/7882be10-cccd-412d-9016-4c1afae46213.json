@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "942bd230-c37e-4517-bd6d-5551f934009c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "9912f6bf-2a70-4e34-ae8a-a4fb571e24c9"
+        }
+    },
+    "manufacturer": "",
+    "name": "Resistor jumper",
+    "prefix": "RJ",
+    "tags": [
+        "passive",
+        "regulator"
+    ],
+    "type": "entity",
+    "uuid": "7882be10-cccd-412d-9016-4c1afae46213"
+}
