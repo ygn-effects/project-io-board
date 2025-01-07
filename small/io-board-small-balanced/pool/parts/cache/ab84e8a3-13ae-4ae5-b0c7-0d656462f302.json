@@ -1,0 +1,68 @@
+{
+    "MPN": [
+        false,
+        "DRV135UA/2K5"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "BALANCED LINE DRIVER"
+    ],
+    "entity": "dd601320-7d2d-466a-b6e7-00ddeea55070",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instrument"
+    ],
+    "model": "3d35a336-4c7c-46f3-af0d-227cc9e8e286",
+    "package": "e9e193c1-ec21-46d7-842b-02266d06f4cb",
+    "pad_map": {
+        "3a5386ab-3e3f-4016-9a85-9c9c2315c9e9": {
+            "gate": "e01343d0-d34b-4980-b9b0-20364353a4a1",
+            "pin": "41310f7d-9e93-44d8-a710-c062e7816d48"
+        },
+        "413d3e7a-addb-4a0f-a94d-c98779119ec6": {
+            "gate": "6577a4ab-b119-4154-9030-763a3c1c7713",
+            "pin": "b0e11638-94ee-4ff0-98ac-b2a4bee8e2ad"
+        },
+        "48bd9388-8520-406b-9d85-090d992c5a9e": {
+            "gate": "6577a4ab-b119-4154-9030-763a3c1c7713",
+            "pin": "75d1face-4dfe-4e9e-ae1c-2a084c3b81df"
+        },
+        "820f4c6b-5a44-4bec-88f5-18a275096696": {
+            "gate": "e01343d0-d34b-4980-b9b0-20364353a4a1",
+            "pin": "21d824ed-8543-4276-838b-0d4909f19226"
+        },
+        "98100bd0-1066-4d26-9a56-75ff1afd842b": {
+            "gate": "e01343d0-d34b-4980-b9b0-20364353a4a1",
+            "pin": "474cdf0b-8d12-4d14-b497-ddc480005426"
+        },
+        "a6605fe8-fe10-4168-9790-5c82df7534cd": {
+            "gate": "e01343d0-d34b-4980-b9b0-20364353a4a1",
+            "pin": "baac1d8f-2ec8-4a03-bb86-f12dbcbd5c1b"
+        },
+        "c7d96e1c-df84-4b5b-be8d-0144d9ba88ca": {
+            "gate": "e01343d0-d34b-4980-b9b0-20364353a4a1",
+            "pin": "3a690c24-7f0a-4a41-998f-a2fefd2713f1"
+        },
+        "de9159bc-124a-4dd0-8254-1c965604ff86": {
+            "gate": "e01343d0-d34b-4980-b9b0-20364353a4a1",
+            "pin": "9fb88fe1-b90f-4ec6-93ac-5f0e8d86a28a"
+        }
+    },
+    "parametric": {
+        "price": "2.94",
+        "table": "general"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "ab84e8a3-13ae-4ae5-b0c7-0d656462f302",
+    "value": [
+        false,
+        "DRV135"
+    ]
+}

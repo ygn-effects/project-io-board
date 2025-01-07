@@ -1,0 +1,25 @@
+{
+    "gates": {
+        "6577a4ab-b119-4154-9030-763a3c1c7713": {
+            "name": "Power",
+            "suffix": "P",
+            "swap_group": 0,
+            "unit": "d74b6471-1ef3-4dc0-b9ad-37ec94994e92"
+        },
+        "e01343d0-d34b-4980-b9b0-20364353a4a1": {
+            "name": "A",
+            "suffix": "A",
+            "swap_group": 0,
+            "unit": "f311eb17-f420-4844-b424-45b0fc8f0fff"
+        }
+    },
+    "manufacturer": "Texas Instrument",
+    "name": "DRV 135",
+    "prefix": "IC",
+    "tags": [
+        "driver",
+        "line"
+    ],
+    "type": "entity",
+    "uuid": "dd601320-7d2d-466a-b6e7-00ddeea55070"
+}
