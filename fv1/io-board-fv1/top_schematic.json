@@ -676,6 +676,12 @@
                         -143750000
                     ]
                 },
+                "9628a5b5-7880-4239-b074-4a8d645dde17": {
+                    "position": [
+                        295000000,
+                        13750000
+                    ]
+                },
                 "96d6396c-368c-4cee-9525-9a8282ad4379": {
                     "position": [
                         88750000,
@@ -734,12 +740,6 @@
                     "position": [
                         237500000,
                         -35000000
-                    ]
-                },
-                "a2188917-8ab8-48b6-845f-bd303aae94f1": {
-                    "position": [
-                        295000000,
-                        12500000
                     ]
                 },
                 "a4649826-4d0e-4226-aea4-62713d28cc39": {
@@ -2958,7 +2958,7 @@
                 "4f33e3d7-fe51-41c9-bb53-0b4a82d249a5": {
                     "from": {
                         "bus_ripper": null,
-                        "junc": "a2188917-8ab8-48b6-845f-bd303aae94f1",
+                        "junc": "9628a5b5-7880-4239-b074-4a8d645dde17",
                         "pin": null,
                         "port": null
                     },
@@ -4641,6 +4641,12 @@
                     "net": "7671f663-f7e0-4dd8-8284-295f7f75d3a9",
                     "orientation": "up"
                 },
+                "0a47fe02-e0bf-4247-9bda-da9501b65563": {
+                    "junction": "9628a5b5-7880-4239-b074-4a8d645dde17",
+                    "mirror": false,
+                    "net": "7671f663-f7e0-4dd8-8284-295f7f75d3a9",
+                    "orientation": "up"
+                },
                 "1a12012c-6308-4800-a529-ce9681269cbd": {
                     "junction": "4d6196a6-3523-4a3a-8d49-9087632c45b9",
                     "mirror": false,
@@ -4958,12 +4964,6 @@
                     "mirror": false,
                     "net": "8498ea5d-f77d-4120-b7fe-462820666f58",
                     "orientation": "right"
-                },
-                "dbbe9d4e-574d-479a-9809-c7cfd67a039b": {
-                    "junction": "a2188917-8ab8-48b6-845f-bd303aae94f1",
-                    "mirror": false,
-                    "net": "e3d054cc-677e-4dac-8ee3-76f67b09fca2",
-                    "orientation": "up"
                 },
                 "e323cdd7-c606-4a3f-aa87-808aae8717bf": {
                     "junction": "4877382c-d914-4098-829d-fac7de7f1dd4",
