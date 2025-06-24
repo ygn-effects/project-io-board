@@ -7,3 +7,5 @@ tmp/*.json
 **/__pycache__
 *.imp_meta
 *.autosave
+*.FCStd1
+*.FCBak
