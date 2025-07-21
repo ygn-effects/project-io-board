@@ -1,0 +1,55 @@
+{
+    "MPN": [
+        false,
+        "DMP3056L-7"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "MOSFET 30V P-CH 50mOHM -10VGS -4.3A"
+    ],
+    "entity": "76499633-9f7a-4be1-9e53-96231526ff3e",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Diodes Incorporated"
+    ],
+    "model": "001b62c2-ca1d-4d02-b95c-90ebb2b83343",
+    "package": "c60bd8ef-44c5-4875-b03c-b910f9ef79b9",
+    "pad_map": {
+        "7a79a4ab-fdb6-4af7-8287-712559f81605": {
+            "gate": "b6f014d2-4a42-42e0-9617-1902437f2bb5",
+            "pin": "be95b714-3185-40e6-81db-a5851cccf58d"
+        },
+        "8a5105dd-bc81-4f58-abab-3cae4471357b": {
+            "gate": "b6f014d2-4a42-42e0-9617-1902437f2bb5",
+            "pin": "e20d30db-e1e9-4a09-8e61-7c2bd067c1f7"
+        },
+        "b65fdf3c-ecab-412b-9210-bfdae541644b": {
+            "gate": "b6f014d2-4a42-42e0-9617-1902437f2bb5",
+            "pin": "7f693493-a25c-41a3-b7bc-97471e15bdbb"
+        }
+    },
+    "parametric": {
+        "id": "-4.3",
+        "package": "SOT-23-3",
+        "price": "0.155",
+        "rds_on": "0.035",
+        "table": "transistors_mosfets",
+        "type": "MOSFET P-Channel",
+        "vds": "-30",
+        "vgs_max": "25",
+        "vgs_th": "-1"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "b3188ba3-0759-4af1-a83d-87707c93a086",
+    "value": [
+        false,
+        ""
+    ]
+}

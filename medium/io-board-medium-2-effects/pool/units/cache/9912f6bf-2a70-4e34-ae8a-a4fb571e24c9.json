@@ -1,0 +1,20 @@
+{
+    "manufacturer": "",
+    "name": "Resistor jumper",
+    "pins": {
+        "377d3902-98f2-4199-9200-26b947c85117": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "e5a297ca-9421-4748-9f10-04ba08e22330": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "9912f6bf-2a70-4e34-ae8a-a4fb571e24c9"
+}
