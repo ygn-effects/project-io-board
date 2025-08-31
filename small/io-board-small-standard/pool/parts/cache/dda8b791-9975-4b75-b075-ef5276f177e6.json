@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "S2B-PH-K-S"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "HEADER PH MALE 1X2 PINS 2MM PITCH ANGLED"
+    ],
+    "entity": "c1078b42-f7fb-4b35-b7f1-f49d4b1a493c",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "KNOCKOFF"
+    ],
+    "model": "58c74336-a3df-4bb6-b213-113a19b873d6",
+    "package": "24673627-429d-4ef5-8876-6774cce0acc2",
+    "pad_map": {
+        "d45dbd7a-20f4-41aa-ae90-737a67db1163": {
+            "gate": "151e7b18-1473-410b-9cc5-2a2bfc5a9662",
+            "pin": "81eb32d7-53c7-4b84-a640-15abb5bbae3e"
+        },
+        "f638248f-d9f2-4418-9f02-b210719e8343": {
+            "gate": "151e7b18-1473-410b-9cc5-2a2bfc5a9662",
+            "pin": "390cf87a-5271-4c11-b8ad-abab12ba848f"
+        }
+    },
+    "parametric": {
+        "contact_material": "Tin",
+        "current_rating": "2",
+        "mounting_angle": "Right Angle",
+        "mounting_style": "Through Hole",
+        "pitch": "2",
+        "positions": "2",
+        "price": "0.06",
+        "rows": "1",
+        "table": "connectors_headers",
+        "voltage_rating": "100"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "dda8b791-9975-4b75-b075-ef5276f177e6",
+    "value": [
+        false,
+        ""
+    ]
+}
