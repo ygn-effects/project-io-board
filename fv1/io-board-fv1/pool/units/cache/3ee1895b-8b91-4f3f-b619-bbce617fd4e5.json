@@ -1,6 +1,6 @@
 {
     "manufacturer": "",
-    "name": "Transistor NPN",
+    "name": "Transistor BJT",
     "pins": {
         "438960e0-8f5d-4763-82d9-d3098a837cf2": {
             "direction": "passive",

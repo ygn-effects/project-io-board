@@ -1,0 +1,84 @@
+{
+    "MPN": [
+        false,
+        "S10B-PH-K-S"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "HEADER PH MALE 1X10 PINS 2MM PITCH ANGLED"
+    ],
+    "entity": "7abf55fb-0508-4cec-aabd-9b04e892cdb0",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "KNOCKOFF"
+    ],
+    "model": "5a4b38c2-85b4-4b9f-81db-7ac7db49dab0",
+    "package": "70cfa85d-920a-43d8-b55c-80622ed4a983",
+    "pad_map": {
+        "14210d86-387d-486b-94a1-892f80de9819": {
+            "gate": "13981606-2bf8-4098-ac63-1eb693f1f826",
+            "pin": "d6969be1-a236-4b1f-a6be-3e73f559cfd4"
+        },
+        "154bac30-3b66-4442-9fbd-615efbe7a0a1": {
+            "gate": "13981606-2bf8-4098-ac63-1eb693f1f826",
+            "pin": "7bfb4de8-65a9-4146-b5d1-f43b59e3a27a"
+        },
+        "4a094416-cd29-481b-a391-1aa397593b1c": {
+            "gate": "13981606-2bf8-4098-ac63-1eb693f1f826",
+            "pin": "5a2e72af-e69f-47a9-9b28-56c0dc48f606"
+        },
+        "4fa9bcef-aaba-4bad-ad6c-eec4f3bd6fbb": {
+            "gate": "13981606-2bf8-4098-ac63-1eb693f1f826",
+            "pin": "29df8f59-78e5-4da7-9dd8-6eb8cde05ed6"
+        },
+        "7f6658e6-a941-4836-b5b1-e1e0fe623166": {
+            "gate": "13981606-2bf8-4098-ac63-1eb693f1f826",
+            "pin": "5c1f00e4-b1d4-4284-bd13-3200933a0d53"
+        },
+        "94654235-050f-439e-bc62-3b76f74c4b15": {
+            "gate": "13981606-2bf8-4098-ac63-1eb693f1f826",
+            "pin": "724ecdb9-7d04-44f0-939a-8e779a748548"
+        },
+        "97d6da61-9cbe-4f89-9ec1-e47120a1833e": {
+            "gate": "13981606-2bf8-4098-ac63-1eb693f1f826",
+            "pin": "044bd2ee-104e-4077-af30-64681a5ed484"
+        },
+        "9eef1602-48ad-48f3-94a0-49325f1a4da4": {
+            "gate": "13981606-2bf8-4098-ac63-1eb693f1f826",
+            "pin": "20b53414-8838-4b88-af9b-83f8155e3294"
+        },
+        "b0e7ca45-a7a0-47b1-b6a1-2209cf5e8c6a": {
+            "gate": "13981606-2bf8-4098-ac63-1eb693f1f826",
+            "pin": "13f3f0aa-5e48-4f09-94eb-692ba2fd99f7"
+        },
+        "dff953bc-191f-4978-b251-3e3c0a03ee4d": {
+            "gate": "13981606-2bf8-4098-ac63-1eb693f1f826",
+            "pin": "853736ac-ca3a-4f1b-b28f-5304e86c2bc5"
+        }
+    },
+    "parametric": {
+        "contact_material": "Tin",
+        "current_rating": "2",
+        "mounting_angle": "Right Angle",
+        "mounting_style": "Through Hole",
+        "pitch": "2",
+        "positions": "10",
+        "price": "0.183",
+        "rows": "1",
+        "table": "connectors_headers",
+        "voltage_rating": "100"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "c6f778c9-9cbf-4062-9aff-25433c2d744b",
+    "value": [
+        false,
+        ""
+    ]
+}

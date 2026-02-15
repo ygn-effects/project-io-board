@@ -5,13 +5,13 @@
         "75d1face-4dfe-4e9e-ae1c-2a084c3b81df": {
             "direction": "power_input",
             "names": [],
-            "primary_name": "GND",
+            "primary_name": "V-",
             "swap_group": 0
         },
         "b0e11638-94ee-4ff0-98ac-b2a4bee8e2ad": {
             "direction": "power_input",
             "names": [],
-            "primary_name": "Vcc",
+            "primary_name": "V+",
             "swap_group": 0
         }
     },
