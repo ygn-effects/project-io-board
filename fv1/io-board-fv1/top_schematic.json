@@ -1940,7 +1940,7 @@
                     "display_all_pads": false,
                     "display_directions": false,
                     "expand": 0,
-                    "gate": "021fb08d-f5a0-487c-97b3-32e35a0ab22f",
+                    "gate": "739f7c08-1e31-49c2-82b9-a25c373d3654",
                     "pin_display_mode": "selected_only",
                     "placement": {
                         "angle": 0,
@@ -1997,7 +1997,7 @@
                     "display_all_pads": false,
                     "display_directions": false,
                     "expand": 0,
-                    "gate": "739f7c08-1e31-49c2-82b9-a25c373d3654",
+                    "gate": "021fb08d-f5a0-487c-97b3-32e35a0ab22f",
                     "pin_display_mode": "selected_only",
                     "placement": {
                         "angle": 0,
