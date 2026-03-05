@@ -1,125 +1,7 @@
 {
     "arcs": {},
-    "default_model": "00000000-0000-0000-0000-000000000000",
-    "dimensions": {
-        "137eb064-c944-4838-87e9-164a46813139": {
-            "label_distance": -10800000,
-            "label_size": 1500000,
-            "mode": "distance",
-            "p0": [
-                -5600000,
-                3000000
-            ],
-            "p1": [
-                -3300000,
-                3000000
-            ]
-        },
-        "5c65b966-60fc-429a-8e2a-641d43547c46": {
-            "label_distance": -8800000,
-            "label_size": 1500000,
-            "mode": "distance",
-            "p0": [
-                -5600000,
-                3000000
-            ],
-            "p1": [
-                -1400000,
-                3000000
-            ]
-        },
-        "79dabc12-a459-4f4a-8ce9-a1942341f371": {
-            "label_distance": 8600000,
-            "label_size": 1500000,
-            "mode": "distance",
-            "p0": [
-                0,
-                0
-            ],
-            "p1": [
-                0,
-                3000000
-            ]
-        },
-        "8dc0c49e-1033-4433-999c-1e7e43198da5": {
-            "label_distance": -12100000,
-            "label_size": 1500000,
-            "mode": "distance",
-            "p0": [
-                -3600000,
-                0
-            ],
-            "p1": [
-                2400000,
-                0
-            ]
-        },
-        "992ffb74-906f-4e0f-80ae-090cd7027456": {
-            "label_distance": -9600000,
-            "label_size": 1500000,
-            "mode": "distance",
-            "p0": [
-                -5600000,
-                0
-            ],
-            "p1": [
-                -3600000,
-                0
-            ]
-        },
-        "b074f0ec-140f-4fad-9365-054093508411": {
-            "label_distance": -7100000,
-            "label_size": 1500000,
-            "mode": "distance",
-            "p0": [
-                -5600000,
-                3000000
-            ],
-            "p1": [
-                3700000,
-                3000000
-            ]
-        },
-        "c0f20025-791b-4651-8bbf-6a38d5750c46": {
-            "label_distance": 5600000,
-            "label_size": 1500000,
-            "mode": "distance",
-            "p0": [
-                0,
-                0
-            ],
-            "p1": [
-                0,
-                -3000000
-            ]
-        },
-        "db1e711a-5e91-4f97-a2ad-0697f1bf5996": {
-            "label_distance": -16600000,
-            "label_size": 1500000,
-            "mode": "distance",
-            "p0": [
-                8000000,
-                0
-            ],
-            "p1": [
-                8000000,
-                -2250000
-            ]
-        },
-        "e12d1c41-9dd4-415b-a3ef-a7b5cd021420": {
-            "label_distance": -16600000,
-            "label_size": 1500000,
-            "mode": "distance",
-            "p0": [
-                -8600000,
-                0
-            ],
-            "p1": [
-                -8600000,
-                2250000
-            ]
-        }
-    },
+    "default_model": "44b6f7de-aecc-4b58-98ad-9eade8587c62",
+    "dimensions": {},
     "grid_settings": {
         "current": {
             "mode": "square",
@@ -132,7 +14,7 @@
                 1000000,
                 1000000
             ],
-            "spacing_square": 25000
+            "spacing_square": 100000
         },
         "grids": {}
     },
@@ -145,19 +27,19 @@
         },
         "4c770438-0af0-48c4-9efe-66463baca058": {
             "position": [
-                4575000,
+                4375000,
                 2125000
             ]
         },
         "6fc521f3-d753-407e-a604-0498116b4cda": {
             "position": [
-                2925000,
+                2725000,
                 2125000
             ]
         },
         "71c7dec4-fcc8-4526-9c58-f86c231ec9a8": {
             "position": [
-                4575000,
+                4375000,
                 3025000
             ]
         },
@@ -169,7 +51,7 @@
         },
         "7d1905dc-bd63-4712-b288-8b6ceb87c636": {
             "position": [
-                5625000,
+                5525000,
                 -3025000
             ]
         },
@@ -205,7 +87,7 @@
         },
         "e985a33c-dcef-40e4-ae44-32ccbb3903d6": {
             "position": [
-                5625000,
+                5525000,
                 3025000
             ]
         },
@@ -217,7 +99,7 @@
         },
         "fd97f099-5e50-4966-b412-dbd9d08c3550": {
             "position": [
-                2925000,
+                2725000,
                 3025000
             ]
         }
@@ -292,7 +174,17 @@
         }
     },
     "manufacturer": "",
-    "models": {},
+    "models": {
+        "44b6f7de-aecc-4b58-98ad-9eade8587c62": {
+            "filename": "3d_models/cache/15ccebcf-4669-46be-a5da-5eb099cfd5ae/3d_models/th-jack-pj-320f.step",
+            "pitch": 0,
+            "roll": 0,
+            "x": 0,
+            "y": 0,
+            "yaw": 16384,
+            "z": 0
+        }
+    },
     "name": "th-connector-jack-pj-320f",
     "pads": {
         "102bc94a-7abf-43c6-9af3-75e78b3bc7f7": {
@@ -305,7 +197,7 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    2400000,
+                    2700000,
                     0
                 ]
             }
@@ -338,7 +230,7 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    -3600000,
+                    -3300000,
                     0
                 ]
             }
@@ -450,7 +342,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        5600000,
+                        5500000,
                         -3000000
                     ],
                     "type": "line"
@@ -486,7 +378,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        2900000,
+                        2700000,
                         3000000
                     ],
                     "type": "line"
@@ -498,7 +390,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        2900000,
+                        2700000,
                         2100000
                     ],
                     "type": "line"
@@ -510,7 +402,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        4600000,
+                        4400000,
                         2100000
                     ],
                     "type": "line"
@@ -522,7 +414,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        4600000,
+                        4400000,
                         3000000
                     ],
                     "type": "line"
@@ -534,7 +426,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        5600000,
+                        5500000,
                         3000000
                     ],
                     "type": "line"
@@ -606,7 +498,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        5600000,
+                        5500000,
                         -3000000
                     ],
                     "type": "line"
@@ -642,7 +534,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        2900000,
+                        2700000,
                         3000000
                     ],
                     "type": "line"
@@ -654,7 +546,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        2900000,
+                        2700000,
                         2100000
                     ],
                     "type": "line"
@@ -666,7 +558,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        4600000,
+                        4400000,
                         2100000
                     ],
                     "type": "line"
@@ -678,7 +570,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        4600000,
+                        4400000,
                         3000000
                     ],
                     "type": "line"
@@ -690,7 +582,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        5600000,
+                        5500000,
                         3000000
                     ],
                     "type": "line"
