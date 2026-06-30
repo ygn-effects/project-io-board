@@ -19,16 +19,16 @@ class Switch : public Pollable {
     DigitalGpio& m_gpio;
     SwitchState m_state;
     uint16_t m_debounceMs;
-    uint16_t m_longPressMs;
     uint32_t m_stateMs;
-    bool m_longPressActive;
-
     bool m_isPressed;
-    bool m_isLongPressed;
 
   public:
-    Switch(DigitalGpio& t_gpio, uint16_t t_debounceMs = 20, uint16_t t_longPressMs = 500) :
-      m_gpio(t_gpio) {}
+    Switch(DigitalGpio& t_gpio, uint16_t t_debounceMs = 20) :
+      m_gpio(t_gpio),
+      m_state(SwitchState::kIdle),
+      m_debounceMs(t_debounceMs),
+      m_stateMs(0),
+      m_isPressed(false) {}
 
     void init() override {
       m_gpio.init();
@@ -46,9 +46,6 @@ class Switch : public Pollable {
             m_state = SwitchState::kDebouncingDown;
             m_stateMs = now;
           }
-
-          m_isPressed = false;
-          m_isLongPressed = false;
           break;
 
         case SwitchState::kDebouncingDown:
@@ -59,15 +56,12 @@ class Switch : public Pollable {
           else if (elapsed >= m_debounceMs) {
             m_state = SwitchState::kPressed;
             m_stateMs = now;
-            m_longPressActive = false;
+            m_isPressed = true;
           }
           break;
 
         case SwitchState::kPressed:
-          if (switchEvent && elapsed >= m_longPressMs) {
-            m_longPressActive = true;
-          }
-          else if (! switchEvent) {
+          if (! switchEvent) {
             m_state = SwitchState::kDebouncingUp;
             m_stateMs = now;
           }
@@ -77,16 +71,8 @@ class Switch : public Pollable {
           if (switchEvent) {
             m_state = SwitchState::kPressed;
             m_stateMs = now;
-            m_longPressActive = false;
           }
           else if (elapsed >= m_debounceMs) {
-            if (m_longPressActive) {
-              m_isLongPressed = true;
-            }
-            else {
-              m_isPressed = true;
-            }
-
             m_state = SwitchState::kIdle;
             m_stateMs = now;
           }
@@ -98,7 +84,9 @@ class Switch : public Pollable {
     }
 
     bool getIsPressed() {
-      return m_isPressed;
+      bool pressed = m_isPressed;
+      m_isPressed = false;
+      return pressed;
     }
 };
 
