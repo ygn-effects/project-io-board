@@ -41,7 +41,7 @@ class DigitalGpioDriver : public DigitalGpio {
       }
     }
 
-    bool read() override {
+    bool read() const override {
       return digitalRead(m_pin);
     }
 
