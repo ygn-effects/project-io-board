@@ -7,10 +7,10 @@
 namespace hal {
   namespace pinsDefinitions {
     constexpr uint8_t c_startupStatePin = 4;
-    constexpr uint8_t c_footSwitchPin = 3;
-    constexpr uint8_t c_ledPin = 0;
-    constexpr uint8_t c_relayPin = 2;
-    constexpr uint8_t c_optocouplerPin = 1;
+    constexpr uint8_t c_footSwitchPin = 0;
+    constexpr uint8_t c_ledPin = 3;
+    constexpr uint8_t c_relayPin = 1;
+    constexpr uint8_t c_optocouplerPin = 2;
   };
 
 extern DigitalGpioDriver startupStateGpio;
